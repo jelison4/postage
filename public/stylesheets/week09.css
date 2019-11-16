@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: gray;
+    width: 500px;
+    margin: 0 auto;
+}
+
+form{
+    background-color: white;
+}
+
+.whitebackground{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+table{
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.center{
+    text-align: center;
+    padding: 10px;
+}
